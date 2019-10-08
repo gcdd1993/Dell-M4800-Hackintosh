@@ -6,7 +6,7 @@
 
 ![](https://i.loli.net/2019/10/08/93aixNSAYgZI8Uz.png)
 
-{%note danger %}WIFI是Intel的，全球无解，淘宝25块买的BCM43224（不带蓝牙）{% endnote %}
+> WIFI是Intel的，全球无解，淘宝25块买的BCM43224（不带蓝牙）
 
 # 电脑配置
 
