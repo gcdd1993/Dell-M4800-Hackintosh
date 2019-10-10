@@ -1,3 +1,7 @@
+# **注意**
+
+本仓库不支持最新的macOs Catalina，我已经尝试过，得到了血的教训，千万不要作死升级！
+
 # 写在前面
 
 ![](https://i.loli.net/2019/10/08/3s2KUNy97glHBij.png)
