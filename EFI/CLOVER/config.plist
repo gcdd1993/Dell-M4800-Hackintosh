@@ -156,7 +156,9 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>High Sierra</string>
+		<string>LastBootedVolume</string>
+		<key>HibernationFixup</key>
+		<true/>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -422,11 +424,7 @@
 		<key>ScreenResolution</key>
 		<string>2560x2048</string>
 		<key>Theme</key>
-<<<<<<< HEAD
 		<string>Simple</string>
-=======
-		<string>nextblack</string>
->>>>>>> parent of 62f6e90... 从远景论坛找了一份新的：之前的存在关机后过段时间再次重启引导失败，必须得强制关机（长按电源键）才能引导成功。
 	</dict>
 	<key>Graphics</key>
 	<dict>
