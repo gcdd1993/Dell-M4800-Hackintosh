@@ -282,7 +282,7 @@
 		<key>ShowOptimus</key>
 		<true/>
 		<key>Theme</key>
-		<string>Clovy</string>
+		<string>Simple</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
